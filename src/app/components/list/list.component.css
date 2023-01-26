@@ -1,0 +1,15 @@
+.box_container{
+    display: flex;
+    flex: 1;
+    border: 1px solid black;
+    width: 25rem;
+}
+
+
+.header{
+    display: flex;
+    flex: 1;
+    justify-content: space-between;
+    align-items: center;
+    width: 25rem;
+}
